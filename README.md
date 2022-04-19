@@ -1,4 +1,6 @@
 
+Goa version v3.7.2
+
 [Design](./design/design.go)
 
 The expected `metadata` Attribute of `MapOf(String, String)` type is
